@@ -1,2 +1,2 @@
 # nuuruasp-portofolio-
-Repository untuk menyimpan portofolio 
+Portofolio Nuuru Alhusna Shufiya Putri
